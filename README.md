@@ -22,3 +22,5 @@
 - Балансировка данных
 - Моделирование
 - Заключение
+
+  В файл "Путь к данным.docx" добавлена ссылка на Google Диск (https://drive.google.com/file/d/1lbySE6i78fZfALr5b06IuyGat0favsSJ/view?usp=sharing) и краткое описание по скачиванию данных.
